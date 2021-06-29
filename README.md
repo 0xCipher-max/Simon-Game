@@ -1,6 +1,6 @@
 # Simon-Game
 Basic Simon Game
-#Languages Used
+# Languages Used
 <ul>
   <li>HTML</li>
   <li>CSS</li>
